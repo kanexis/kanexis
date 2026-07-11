@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Привет, я Вадим 👋
 
-Backend-разработчик на C# и ASP.NET Core. Развиваю собственный сервис доставки «Доставка-Курорт» и использую его как практический проект для изучения архитектуры, PostgreSQL, Docker, CI/CD и production-подходов.
+Backend-разработчик на C# и ASP.NET Core. Развиваю коммерческий продукт сервис доставки и практикую PostgreSQL, Docker, CI/CD и production-подходов.
 
 ## Чем занимаюсь
 
