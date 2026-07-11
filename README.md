@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Привет, я Вадим 👋
 
-### C# / ASP.NET Core backend developer
+### 1С/ C# / ASP.NET Core backend developer
 
 Разрабатываю backend-приложения на **C# и ASP.NET Core**, проектирую API, работаю с PostgreSQL, Entity Framework Core и Docker. Больше всего интересуюсь архитектурой серверных приложений, авторизацией, бизнес-логикой, интеграциями и постепенным доведением учебных проектов до уровня реального продукта.
 
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 * развитие архитектуры по мере роста проекта.
 
 Мне близок прагматичный подход к архитектуре: применять **SOLID, DRY, KISS, Clean Architecture, Modular Monolith и Vertical Slice Architecture** там, где они действительно уменьшают связанность и упрощают развитие системы.
+
+Дополнительно имею опыт работы с 1С и практикой расширений для конфигураций 1С.
 
 ## Технологии и навыки
 
